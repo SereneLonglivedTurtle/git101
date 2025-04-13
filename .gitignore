@@ -1,0 +1,40 @@
+# System files
+.DS_Store
+.CFUserTextEncoding
+
+# IDE and editor files
+.vscode/
+.atom/
+.idea/
+.cursor/
+
+# Python related
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.jupyter/
+.ipython/
+.python_history
+.conda/
+.anaconda/
+
+# Other personal directories and files
+Desktop/
+Documents/
+Downloads/
+Applications/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Virtual Machines.localized/
+.ssh/
+.npm/
+.cargo/
+.rustup/
+.bash_sessions/
+.bash_history
+.zsh_history
+.lesshst
+.viminfo 
